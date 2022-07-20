@@ -1,0 +1,35 @@
+h1{
+    color: rgb(69, 180, 49);
+    padding: 10px;
+}
+.header{
+    border-color: rgb(72, 119, 136);
+    border-width: 10px;
+    padding: 10px;
+    display: flex;
+}
+.menu{
+    justify-content: right;
+    display: flex;
+    flex-wrap: wrap;
+}
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 20px;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+body{
+    background-color: #ce3f3f;
+}
+
+p{
+    text-align: center;
+}
